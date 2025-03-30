@@ -1,4 +1,3 @@
-## Website <a src="https://sam-martis.github.io/ChaosTheoryAttractors/">https://sam-martis.github.io/ChaosTheoryAttractors/</a>
 
 In this website, we plot differential equations using HTML5 Canvas and Javascript. The differential equations are solved sequentially using numeric methods.
 When you go to the website, you will get the option of choose chen or lorentz attractors. In the future, more will be added.
